@@ -48,3 +48,14 @@ public class Java_Output_Formatting {
             sc.close();
     }
 }
+/*
+System.out.printf("%-15s%03d\n",s1,x);
+
+%s is used for string so,
+%-15s --> is used for -15 spaces right side for string
+
+same as
+
+%d is used for int
+%03 --> used for 3 spaces left side for int with starting 0
+*/
