@@ -1,9 +1,3 @@
-# Hackerrank-Java
-This repository contains my solutions to various HackerRank challenges using Java. The challenges cover a wide range of topics, including data structures, algorithms, and problem-solving skills, aimed at improving proficiency in Java programming.
-Certainly! Here's a revised `README.md` to reflect that the directory will contain solutions to all HackerRank Java domain questions:
-
----
-
 # HackerRank Java Solutions (Easy Level)
 
 This repository contains solutions to the easy-level questions from [HackerRank's Java domain](https://www.hackerrank.com/domains/java?badge_type=java). These challenges cover a wide range of Java fundamentals, and solving them will help you improve your understanding of the language.
@@ -96,5 +90,3 @@ If you have any questions or suggestions, connect with me on [LinkedIn](https://
 Happy coding! 🚀
 
 ---
-
-This README gives a structured overview of the repository, aligns with the types of problems on HackerRank, and provides clear instructions on using and contributing to the repository.
