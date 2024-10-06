@@ -74,6 +74,6 @@ To contribute, fork this repository, make your changes, and create a pull reques
 
 ## 📫 Connect with Me
 
-Feel free to reach out if you have questions, suggestions, or just want to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/parammalviya/).
+Feel free to reach out if you have questions, suggestions, or just want to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/param-malviya/).
 
 Happy coding and keep challenging yourself! 🚀
