@@ -1,7 +1,3 @@
-Sure! Here’s a `README.md` for the medium-level questions from the [HackerRank Java domain](https://www.hackerrank.com/domains/java?badge_type=java&filters%5Bdifficulty%5D%5B%5D=medium):
-
----
-
 # HackerRank Java Solutions (Medium Level)
 
 This repository contains solutions to the medium-level questions from [HackerRank's Java domain](https://www.hackerrank.com/domains/java?badge_type=java&filters%5Bdifficulty%5D%5B%5D=medium). These challenges require a deeper understanding of Java and introduce more complex programming concepts, making them ideal for those looking to advance their skills.
