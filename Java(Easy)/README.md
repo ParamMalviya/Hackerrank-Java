@@ -1,6 +1,6 @@
 # HackerRank Java Solutions (Easy Level)
 
-This repository contains solutions to the easy-level questions from [HackerRank's Java domain](https://www.hackerrank.com/domains/java?badge_type=java). These challenges cover a wide range of Java fundamentals, and solving them will help you improve your understanding of the language.
+This repository contains solutions to the easy-level questions from [HackerRank's Java domain](https://www.hackerrank.com/domains/java?badge_type=java&filters%5Bdifficulty%5D%5B%5D=easy). These challenges cover a wide range of Java fundamentals, and solving them will help you improve your understanding of the language.
 
 ## 📂 Directory Overview
 
